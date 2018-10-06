@@ -1,0 +1,4 @@
+spring:
+  data:
+    cassandra:
+      keyspace-name: ao_payer_standing_instructions_green
